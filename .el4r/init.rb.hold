@@ -1,0 +1,8 @@
+elr4_load "elr4-mode.rb"
+
+#$LOAD_PATH << "/Users/lbrown/dev/xiki/lib/"
+## $LOAD_PATH << "/projects/xiki/lib/"
+#require 'xiki'
+#Xiki.init
+#Xiki::KeyShortcuts.keys   # Use default key shortcuts
+#Xiki::Themes.use "Default"  # Use xiki theme

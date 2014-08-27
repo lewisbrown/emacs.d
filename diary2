@@ -1,0 +1,36 @@
+12 Feb : Eric & Jana's Bday
+%%(diary-float t 3 2) Denver Java Users Group 5:30
+
+%%(diary-anniversary 9 9 2010) Jana's and my %d%s anniversaryc
+%%(diary-anniversary 4 1 1966) Sallie's Birthday
+%%(diary-anniversary 4 29 1962) John Jackson's Birthday
+
+
+
+Apr 15 Personal Tax Extension Due
+Jan 15 4Q Personal Estimated Tax Payment Due
+Apr 15 1Q Personal & Corp Estimated Tax Payment Due
+Jun 15 2Q Personal & Corp Estimated Tax Payment Due
+%%(diary-remind '(diary-date 15 1 t) 30)  Quarterly Estimated Tax Payment Due
+%%(diary-remind '(diary-date 15 4 t) 30)  Quarterly Estimated Tax Payment Due
+%%(diary-remind '(diary-date 15 6 t) 30)  Quarterly Estimated Tax Payment Due
+%%(diary-remind '(diary-date 15 9 t) 30)  Quarterly Estimated Tax Payment Due
+Oct 15 Personal Taxes Due
+Sep 15 3Q Personal & Corp Estimated Tax Payment Due
+Dec 15 4Q Corp Estimated Tax Payment Due
+
+Apr 15 Partnership Tax Extension Due
+
+Mar 15 Corporate Tax Extension Due
+Aug 15 One month till Corporate Taxes Due
+Sep 15 Corporate Taxes Due 
+
+%%(diary-cyclic 14 9 23 2010) garbage 10:00
+
+Sep 15 Change air filter in furnace
+Apr 15 Change air filter in furnace
+
+%%(diary-block 4 13 2011 4 17 2011) Small Farmer's Journal Horsedrawn Auction
+ 
+
+

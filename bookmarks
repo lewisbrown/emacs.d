@@ -1,0 +1,21 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("abbrev"
+ (filename . "~/.emacs.d/my_emacs_abbrev.el")
+ (front-context-string . "\n    (\"8ev\" \"env")
+ (rear-context-string . "var\" \"variable\")")
+ (position . 693))
+("dev"
+ (filename . "~/dev/")
+ (front-context-string . ".DS_Store\n  drwx")
+ (rear-context-string . "92 Nov 15 21:39 ")
+ (position . 234))
+("e"
+ (filename . "~/.emacs")
+ (front-context-string . ";; This is the A")
+ (rear-context-string)
+ (position . 1)
+ (annotation . ""))
+)

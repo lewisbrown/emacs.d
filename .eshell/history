@@ -1,0 +1,128 @@
+cd .emacs.d/
+find . -name "lusty*"
+cd
+cd .emacs.d
+cd ela
+cd elpa
+ls
+ls ..
+less ../packagelist.el 
+cd ..
+ls var
+less abbrev_defs 
+exit
+cd
+ls
+ls emacs-site-lisp/
+ls *.el
+ls "*.el"
+ls "\*.el"
+ls "\\*.el"
+expand-region.el              psgml-charent.elc           zencoding
+less subdirs.el
+cat subdirs.el
+cat subdir.el
+cd emacs-site-lisp/
+cat subdirs.el 
+cp subdirs.el ~/.emacs.d/elpa/
+cd ../.emacs.d
+ls
+cat my_emacs_abbrev.el
+less my_emacs_abbrev.el 
+cd ..
+ls elisp/
+mv elisp .emacs.d
+cd .emacs.d/
+ls
+mv my_emacs_abbrev.el elisp/
+less packagelist.el 
+mv packagelist.el packagelist
+ls
+less places 
+ls image-dired/
+ls
+cp elpa/subdirs.el elisp/
+ls emacs-color-theme-solarized-master/
+exit
+ls
+vars
+pwd
+cd .oh-my-zsh/
+ls
+less lib/aliases.zsh 
+less custom/aliases.zsh 
+mv custom/aliases.zsh aliases.zsh
+mv lib/aliases.zsh custom/aliases.zsh
+mv aliases.zsh lib/aliases.zsh
+ls
+ls lib
+ll
+ls -l
+ls lib
+ls -1 lib
+less lib/directories.zsh 
+less lib/edit-command-line.zsh 
+less lib/functions.zsh 
+zsh_status
+man bash
+zsh -c zsh_status()
+man bash
+zsh_stats
+source lib/functions.zsh 
+zsh
+less lib/grep.zsh 
+lbrown@pierre  ~/.oh-my-zsh  less lib
+exit
+cd ~
+cd .emacs.d/elpa/
+ls
+less parenface-20091203.1917/
+ls parenface-plus-1.1/
+ls parenface-20091203.1917/
+ls yaml-mode-20130311.1301/
+cd yaml-mode-20130311.1301/
+ls
+less yaml-mode.el
+less yaml-mode-pkg.elc
+less yaml-mode-pkg.el
+less yaml-mode-autoloads.el 
+exit
+cd
+cd .emacs.d/elpa/
+ls
+find . -name "dir"
+cd drupal-spell-0.2.2/
+ls
+less README 
+less dict
+ls dict
+less dict/drupal.txt 
+l1
+ls 1
+ls -1
+cd ..
+cd auctex-11.87.2/
+ls
+ls dir
+less dir
+less auctex-autoloads.el 
+cd ..
+ls
+ls m*
+ls -d m*
+less multiple-cursors-readme.txt
+cd multiple-cursors-20131031.2138/
+ls
+less multiple-cursors-pkg.elc
+less multiple-cursors-pkg.el
+less multiple-cursors.el
+less multiple-cursors-core.elc
+less multiple-cursors-core.el
+grep '\(autoload' *
+grep '(autoload' *
+less multiple-cursors-autoloads.el 
+ls
+less multiple-cursors-pkg.elc
+less multiple-cursors-pkg.el
+ls
+exit
